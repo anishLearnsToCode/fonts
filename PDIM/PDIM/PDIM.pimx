@@ -1,0 +1,13 @@
+<package_installation_info version="2.0">
+<packageid>19F5260E-47EE-42C5-A79E-102CC9E8EDC9</packageid> 
+                                                                                        	<name>PDIM</name>
+<version>3.9.1.335</version>
+	<target_location>temp</target_location>
+	<packages>
+		<pimaInfo>
+			<packagetype>flat</packagetype> 
+			<name>PDIM</name>
+			<assets_size>123123</assets_size> 	
+		</pimaInfo>
+	</packages>
+</package_installation_info> 
